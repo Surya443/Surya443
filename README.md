@@ -1,10 +1,16 @@
 <h1 align="center">
-  <img src="https://github.com/Surya443/Surya443/raw/main/assets/api.svg" alt="Surya" />
+  <img src="https://github.com/Surya443/Surya443/raw/main/assets/Surya_Sivakumar.svg" alt="Surya" />
 </h1>
 <h3 align="left">
-  <img src="https://github.com/Surya443/Surya443/raw/main/assets/Surya_Sivakumar.svg" alt="Surya" />
+  <img src="https://github.com/Surya443/Surya443/raw/main/assets/dowload.svg" alt="Surya" />
 </h3>
-
+<h3 align="right">
+  <img src="https://github.com/Surya443/Surya443/raw/main/assets/api.svg" alt="Surya" />
+</h3>
+</h3>
+<h3 align="left">
+  <img src="https://github.com/Surya443/Surya443/raw/main/assets/downlaod(1).svg" alt="Surya" />
+</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB"/>
