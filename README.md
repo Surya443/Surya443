@@ -23,7 +23,6 @@ I'm **Surya**, a final-year **B.Tech student** specializing in **Artificial Inte
 <p>
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB"/>
   <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E"/>
-  <img src="https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624"/>
   <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=336791"/>
   <img src="https://img.shields.io/badge/Database-VectorDB%20(Pinecone,%20ChromaDB)-informational?style=flat&color=3BA935"/>
   <img src="https://img.shields.io/badge/Transformer-BERT-informational?style=flat&color=brightgreen"/>
