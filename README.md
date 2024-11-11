@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.github.com/martonlederer/martonlederer/assets/surya sivakumar.svg" alt="Surya" />
+  <img src="https://github.com/Surya443/Surya443/raw/main/assets/surya sivakumar.svg" alt="Surya" />
 </h1>
 <p>
 <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB"/>
