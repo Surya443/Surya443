@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Surya443/Surya443/raw/main/assets/Surya_Sivakumar.svg" alt="Surya" />
+  <img src="https://github.com/Surya443/Surya443/raw/main/assets/ezgif.com-crop.gif" alt="Surya" />
 </h1>
 
 <div align="center">
