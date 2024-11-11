@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://raw.github.com/martonlederer/martonlederer/assets/surya sivakumar.svg" alt="Surya" />
+</h1>
 <p>
 <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB"/>
 <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E"/>
